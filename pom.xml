@@ -41,9 +41,9 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>net.tirasa.connid</groupId>
-			<artifactId>common</artifactId>
-			<version>1.5.0.0</version>
+			<groupId>org.identityconnectors</groupId>
+			<artifactId>framework</artifactId>
+			<version>1.5.2.0</version>
 		</dependency>
 	</dependencies>
 
